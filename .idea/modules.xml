@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CodeForcesKotlin.iml" filepath="$PROJECT_DIR$/CodeForcesKotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ContestGenerator/ContestGenerator.iml" filepath="$PROJECT_DIR$/ContestGenerator/ContestGenerator.iml" />
+    </modules>
+  </component>
+</project>
